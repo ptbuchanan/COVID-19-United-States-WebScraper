@@ -1,1 +1,8 @@
 # SummerResume
+
+## Ideas:
+
+## Deadlines:
+
+## Links:
+
