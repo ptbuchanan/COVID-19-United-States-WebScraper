@@ -8,6 +8,7 @@
 
 ## COVID-19 Links:
 - https://www.worldometers.info/coronavirus/country/us/
+- https://plotly.com/python/table-subplots/
 
 ## YouTube Links:
 - https://www.youtube.com/watch?v=nRgfmv9Jog4
