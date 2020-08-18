@@ -7,7 +7,7 @@
 - August 30th
 
 ## COVID-19 Links:
-- https://www.kff.org/other/state-indicator/covid-19-deaths-by-race-ethnicity/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
+- https://www.worldometers.info/coronavirus/
 
 ## YouTube Links:
 - https://www.youtube.com/watch?v=nRgfmv9Jog4
