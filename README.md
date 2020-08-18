@@ -7,7 +7,7 @@
 - August 30th
 
 ## COVID-19 Links:
-- https://www.worldometers.info/coronavirus/
+-https://www.worldometers.info/coronavirus/country/us/
 
 ## YouTube Links:
 - https://www.youtube.com/watch?v=nRgfmv9Jog4
