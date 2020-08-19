@@ -9,6 +9,7 @@
 ## COVID-19 Links:
 - https://www.worldometers.info/coronavirus/country/us/
 - https://plotly.com/python/table-subplots/
+- https://plotly.com/python/subplots/ <- Link provides some documentation regarding scatter graphs and bar
 
 ## YouTube Links:
 - https://www.youtube.com/watch?v=nRgfmv9Jog4
