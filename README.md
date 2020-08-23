@@ -1,7 +1,7 @@
-# SummerResume
+# Web Scraper
 
 ## Ideas:
-- COVID-19 cases by race in the US
+- COVID-19 cases in the US
 
 ## Deadlines:
 - August 30th
