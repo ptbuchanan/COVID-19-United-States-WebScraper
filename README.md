@@ -1,7 +1,7 @@
 # COVID-19 Statistics Web Scraper
 
 ## Idea:
-- COVID-19 statistics in the US by state
+- A Web Scraper that collects COVID-19 statistics in the US by state. The data is later graphed to show trends.
 
 ## Links:
 - https://www.worldometers.info/coronavirus/country/us/
