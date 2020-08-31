@@ -1,4 +1,4 @@
-# COVID-19 Statistics Web Scraper
+# COVID-19 US Statistics Web Scraper
 
 ## Authors:
 George Minas and Preston Buchanan
