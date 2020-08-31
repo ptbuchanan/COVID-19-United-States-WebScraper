@@ -6,3 +6,4 @@
 ## Websites Used:
 - https://www.worldometers.info/coronavirus/country/us/
 - https://plotly.com/python/subplots/
+- https://www.youtube.com/watch?v=nRgfmv9Jog4
