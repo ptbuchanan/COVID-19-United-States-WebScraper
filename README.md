@@ -1,6 +1,6 @@
 # COVID-19 Statistics Web Scraper
 
-## Ideas:
+## Idea:
 - COVID-19 statistics in the US by state
 
 ## Links:
